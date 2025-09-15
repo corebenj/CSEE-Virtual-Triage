@@ -1,0 +1,15 @@
+# React
+What is React
+Why did we choose to use react
+
+# Structure: Monorepo
+What is a Monorepo
+Why are we using a monorepo? Pros and cons?
+
+# TurboRepo
+What is turbo repo
+Why did we choose to use turbo repo
+
+# Language
+Why are we using typscript
+what other options did we have
