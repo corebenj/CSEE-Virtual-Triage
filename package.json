@@ -1,0 +1,13 @@
+{
+  "name": "csee-virtual-triage",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "author": "Kent Dang, Corey Benjamin, Kamronbek Rakhimov",
+  "license": "ISC",
+  "description": "CMSC 447 Software Engineering Project"
+}
